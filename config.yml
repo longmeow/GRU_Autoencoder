@@ -1,0 +1,11 @@
+data_dir: SWAT
+dataset: swat 
+l_win: 50
+d_model: 45
+embed_dim: 64
+n_layers: 2
+batch_size: 64
+n_epochs: 5
+lr: 0.001
+checkpoint_dir: /home/longmeow/Documents/FL_train/CheckPoint
+result_dir: /home/longmeow/Documents/FL_train/Result
